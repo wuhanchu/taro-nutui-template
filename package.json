@@ -6,7 +6,7 @@
   "templateInfo": {
     "name": "react-NutUI",
     "typescript": true,
-    "css": "stylus"
+    "css": "less"
   },
   "scripts": {
     "build:weapp": "taro build --type weapp",
