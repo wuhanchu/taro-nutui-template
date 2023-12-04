@@ -1,6 +1,7 @@
 import React from "react";
 import { View } from "@tarojs/components";
 import { Button } from "@nutui/nutui-react-taro";
+
 import "./index.less";
 
 function Index() {
